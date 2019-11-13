@@ -1,0 +1,17 @@
+.menu {margin-left: 450px;}
+.menu li{width: 100px;
+		height: 40px;
+		list-style: none;
+		display: inline-block;
+		}
+body{background-image: linear-gradient(to left,gray,white);
+
+	background-size: cover;
+}
+.clavier{margin-left: auto;
+margin-right: auto;
+display: block;}
+table{border: 2px solid black;}
+th,td{border: 1px solid black;}
+.menu li :hover{background-color: blue;
+}
